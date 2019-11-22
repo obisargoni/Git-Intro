@@ -2,6 +2,6 @@
 
 name <- c("obi")
 home_town <- c("london")
-scared_of <- c("dracula")
+scared_of <- c("spiders")
 
 df <- data.frame(name, home_town, scared_of)
